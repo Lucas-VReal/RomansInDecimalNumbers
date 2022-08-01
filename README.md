@@ -15,9 +15,9 @@ About the project:
 I used math addition operations to add the simple numbers (Not starting with "I", "X" or "C") see the values of the letters (Strings) and a example:
 
 I = 1;
-IV = 4; *
+*IV = 4;
 V = 5;
-IX = 9; *
+*IX = 9;
 X = 10;
 XL = 40;
 L = 50;
