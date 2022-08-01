@@ -12,7 +12,7 @@ To see this working do a little steps:
 
 About the project:
 
-I used math addition operations to add the simple numbers (Not starting with "I", "X" or "C") see the values of the letters (Strings) and a example:
+I used math addition operations to add the simple numbers see the values of the letters (Strings) and a example:
 
 I = 1;
 *IV = 4;
@@ -26,7 +26,9 @@ C = 100;
 D = 500;
 M = 1000;
 
-Addicion example: X = 10 -> XXX = 10 + 10 + 10 => 30 
+Addicion example: X = 10 -> XXX = 10 + 10 + 10 => 30
+
+Obs: The numbers starting with "I", "X" or "C" have to take more attention, see the explanation about why in the next topic.
 
 I used simple mathematical operations and the switch case flow control in the Converter class, filtering with if and else the numbers starting whith:
 
