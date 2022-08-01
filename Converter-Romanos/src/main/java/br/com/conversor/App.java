@@ -1,4 +1,4 @@
-package br.conversor.model;
+package br.com.conversor;
 
 /**
  * Hello world!
