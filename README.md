@@ -2,13 +2,15 @@
 
 This is a challenge project builded in Intellij IDEA.
 
-To see this working do a little steps:
+To see this working do a little steps in your Git Bash Terminal:
 
-1. You can clone this project using "git clone https://github.com/Lucas-VReal/RomansInDecimalNumbers" in your Git Bash Terminal;
-2. Open the project with Intellij or Eclipse IDEA;
-3. Run the class in src/main/java/br/com/conversor/action/TestConversor;
-4. Inform a Roman number and press Enter;
-5. See the result in the console.
+1. You can clone this project using "git clone https://github.com/Lucas-VReal/RomansInDecimalNumbers";
+2. use the comand "cd" to go in the project local file and use "cd Convert-Romans";
+3. use comand "mvn clean install" to create the jar executable file;
+4. use the comand "cd target" to access the local of your jar file;
+5. use the comand "java -jar Converter-Romanos-1.jar";
+6. Inform a Roman number and press Enter;
+7. See the result in the console.
 
 About the project:
 
