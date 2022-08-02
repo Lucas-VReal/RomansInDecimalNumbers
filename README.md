@@ -12,7 +12,7 @@ To see this working do a little steps:
 
 About the project:
 
-I used math addition operations to add the simple numbers see the values of the letters (Strings) and a example:
+I have used math addition operations to add the simple numbers and see the values of the letters (Strings) as a result. Look a example next:
 
 I = 1;
 *IV = 4;
